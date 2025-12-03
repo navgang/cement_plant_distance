@@ -1,0 +1,18 @@
+''''origins = [{"name": "13573 Tehachapi Blvd", "value": "13573 Tehachapi Blvd (M)"},
+                   {"name": "33503 CA-138, Lebec", "value": "33503 CA-138, Lebec (M)"},
+                   {"name": "19409 National Trails Hwy, Oro Grande", "value": "19409 National Trails Hwy, Oro Grande (M)"},
+                   {"name": "9350 Oak Creek Rd, Mojave", "value": "9350 Oak Creek Rd, Mojave (M)"},
+                   {"name": "5808 CA-18, Lucerne Valley", "value": "5808 CA-18, Lucerne Valley (M)"},
+                   {"name": "16888 E St, Victorville", "value": "16888 E St, Victorville (M)"},
+                   {"name": "401 Canal St, Wilmington", "value": "401 Canal St, Wilmington (M)"},
+                   {"name": "1150 Pier F Ave, Long Beach", "value": "1150 Pier F Ave, Long Beach (M)"},
+                   {"name": "13846 Firestone Blvd, Santa Fe Springs", "value": "13846 Firestone Blvd, Santa Fe Springs (M)"},
+                   {"name": "14501 Macaw St, La Mirada", "value": "14501 Macaw St, La Mirada (M)"},
+                   {"name": "10411 Live Oak Ave, Fontana", "value": "10411 Live Oak Ave, Fontana (M)"}]'''
+
+
+'''origins_str = '|'.join(origins)
+    destinations_str = '|'.join(destinations)'''
+    
+'''origins = urllib.parse.quote(origins_str)
+    destinations = urllib.parse.quote(destinations_str)'''
